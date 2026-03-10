@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74750414/167504857-4129cbc1-2d10-4478-be39-3c1a3bee2dbc.gif)
 <h1 align="center">Hi 👋, I'm Nishyanth Nandagopal</h1>
-<h3 align="center">A tech enthusiast skilled in full-stack development from India</h3>
+<h3 align="center"> AI engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7cab7453b50c32be4c3605a42cb5e509644666999796555e759d06a9facf6b4a/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 - 💬 Ask me about **Python, Nodejs, react, SQL, ML**
 
